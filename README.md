@@ -10,6 +10,17 @@ However, such characteristics have brought some problems, for example:
 For some very close nodes, sometimes there will be inevitable and obvious overlap. Although I will describe some methods to avoid overlap below, for people who do not know GrapeTree or EnteroBase, it may cause some confusion in understanding the topological structure of the phylogeny. Anyway, please remember one thing, the results you see within GrapeTree are real.
 
 ## Loading data into GrapeTree
+
+| File name | Source squence | Num. SNPs |
+| ---- | ---- | ---- |
+| ESL.json | LRB | xxxxx |
+| All.json | All recombinant-free SNPs from RBs | xxxxx |
+| MRB1.json | MRB1 | xxxxx |
+| MRB2.json | MRB2 | xxxxx |
+| HRB1.json | HRB1 | xxxxx |
+| HRB2.json | HRB2 | xxxxx |
+| HRB3.json | HRB3 | xxxxx |
+
 Currently, you have two ways to use GrapeTree: 
 * Downloading the [Stand-alone version](https://github.com/achtman-lab/GrapeTree/releases) 
 * Or using an [online demo](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html). 
