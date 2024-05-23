@@ -5,6 +5,7 @@
 * The advantages of GrapeTree comparing with other rectangular visulation tool (ITOL e.g.) are:
 	* Classification for large structure within massive data at a glance(literally).
 	* Fully interactive.
+
 However, such characteristics have brought some problems, for example:
 For some very close nodes, sometimes there will be inevitable and obvious overlap. Although I will describe some methods to avoid overlap below, for people who do not know GrapeTree or EnteroBase, it may cause some confusion in understanding the topological structure of the phylogeny.
 
