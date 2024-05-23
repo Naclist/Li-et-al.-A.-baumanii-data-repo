@@ -7,7 +7,15 @@
 	* Fully interactive.
 
 However, such characteristics have brought some problems, for example:
-For some very close nodes, sometimes there will be inevitable and obvious overlap. Although I will describe some methods to avoid overlap below, for people who do not know GrapeTree or EnteroBase, it may cause some confusion in understanding the topological structure of the phylogeny.
+For some very close nodes, sometimes there will be inevitable and obvious overlap. Although I will describe some methods to avoid overlap below, for people who do not know GrapeTree or EnteroBase, it may cause some confusion in understanding the topological structure of the phylogeny. Anyway, please remember one thing, the results you see within GrapeTree are real.
+
+## Loading data into GrapeTree
+Currently, you have two ways to use GrapeTree: 
+* Downloading the [Stand-alone version](https://github.com/achtman-lab/GrapeTree/releases) 
+* Or using an [online demo](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html). 
+Both can load the json files we have prepared.
+
+Open GrapeTree, click the "Load Files" button shown in the image below to select the json file, or simply drag the json file into the blank area of the web page. If everything runs OK, you will see the visualized phylogeny tree displayed by GrapeTree.
 
 
 [^GrapeTree]: https://genome.cshlp.org/content/28/9/1395
