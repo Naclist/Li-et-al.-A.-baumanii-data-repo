@@ -16,7 +16,8 @@ Currently, you have two ways to use GrapeTree:
 Both can load the json files we have prepared.
 
 Open GrapeTree, click the "Load Files" button shown in the image below to select the json file, or simply drag the json file into the blank area of the web page. If everything runs OK, you will see the visualized phylogeny tree displayed by GrapeTree.
-![loading_image](https://github.com/Naclist/Li-et-al.-A.-baumanii-data-repo/blob/main/img/loading.png)
+
+<img src=https://github.com/Naclist/Li-et-al.-A.-baumanii-data-repo/blob/main/img/loading.png, width=30%>
 
 
 [^GrapeTree]: https://genome.cshlp.org/content/28/9/1395
