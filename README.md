@@ -53,6 +53,5 @@ Specifically under Tree Layout > Branch Style:
 * Collapse Branches: will collapse all branches under a certain length. The length value shown is the real branch length for the tree. To see the lengths for all branches, check the Branch Labels under Branch Style. The slider is scaled relatively, so moving it all the way to the right will collapse all the nodes giving you a pie graph (which I mentioned in the beginning).
 * Log Scale: if this is checked (has a tick in the box), all branches will be Log-scaled. This is useful for trees with a wide variety of branch lengths.
 
-
 [^capy]: https://www.researchsquare.com/article/rs-4224555/v1
 [^GrapeTree]: https://genome.cshlp.org/content/28/9/1395
