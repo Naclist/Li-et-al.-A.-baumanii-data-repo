@@ -39,7 +39,7 @@ For any users who explore this dataset, you may want to know the groups under ES
 Specifically under Tree Layout > Branch Style:
 
 * Scaling: will uniformly increase the scaling for all branches. For instance, setting it to 200% will double the length of all branches relative to the default setting (100%); whereas 50% would halve it.
-* Collapse Branches: will collapse all branches under a certain length. The length value shown is the real branch length for the tree. To see the lengths for all branches, check the Branch Labels under Branch Style. The slider is scaled relatively, so moving it all the way to the right will collapse all the nodes giving you a pie graph. (which I mentioned in the [Something you need to know before try to use these data] part)
+* Collapse Branches: will collapse all branches under a certain length. The length value shown is the real branch length for the tree. To see the lengths for all branches, check the Branch Labels under Branch Style. The slider is scaled relatively, so moving it all the way to the right will collapse all the nodes giving you a pie graph. (which I mentioned in the [[Something you need to know before try to use these data]] part)
 * Log Scale: if this is checked (has a tick in the box), all branches will be Log-scaled. This is useful for trees with a wide variety of branch lengths.
 
 [^GrapeTree]: https://genome.cshlp.org/content/28/9/1395
