@@ -13,13 +13,13 @@ For some very close nodes, sometimes there will be inevitable and obvious overla
 
 | File name | Source sequence | Num. SNPs |
 | ---- | ---- | ---- |
-| ESL.json | LRB | xxxxx |
-| All.json | All recombinant-free SNPs from RBs | xxxxx |
-| MRB1.json | MRB1 | xxxxx |
-| MRB2.json | MRB2 | xxxxx |
-| HRB1.json | HRB1 | xxxxx |
-| HRB2.json | HRB2 | xxxxx |
-| HRB3.json | HRB3 | xxxxx |
+| ESL.json | LRB | 23524 |
+| All.json | All recombinant-free SNPs from RBs | 35609 |
+| MRB1.json | MRB1 | 2245 |
+| MRB2.json | MRB2 | 2177 |
+| HRB1.json | HRB1 | 5476 |
+| HRB2.json | HRB2 | 1813 |
+| HRB3.json | HRB3 | 374 |
 
 Currently, you have two ways to use GrapeTree: 
 * Downloading the [Stand-alone version](https://github.com/achtman-lab/GrapeTree/releases) 
