@@ -11,7 +11,7 @@ For some very close nodes, sometimes there will be inevitable and obvious overla
 
 ## Loading data into GrapeTree
 
-| File name | Source squence | Num. SNPs |
+| File name | Source sequence | Num. SNPs |
 | ---- | ---- | ---- |
 | ESL.json | LRB | xxxxx |
 | All.json | All recombinant-free SNPs from RBs | xxxxx |
